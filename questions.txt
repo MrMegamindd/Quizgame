@@ -1,0 +1,27 @@
+What is 3 * 5?;15;Java questions;Easy
+What is 5 * 14?;70;Java questions;Easy
+What is 3 + 3?;6;Java questions;Easy
+What is the capital city of Japan?;Tokyo;Geography questions;Easy
+What is the capital city of Australia?;Canberra;Geography questions;Easy
+What is the capital city of Canada?;Ottawa;Geography questions;Easy
+What is the largest organ in the human body?;Skin;Human body parts questions;Easy
+What is the largest bone in the human body?;Femur;Human body parts questions;Easy
+What is the largest muscle in the human body?;Gluteus Maximus;Human body parts questions;Easy
+What is 3 * 5 * 2?;30;Harder math questions;Medium
+What is 5 * 14 * 2?;140;Harder math questions;Medium
+What is 3 + 3 * 2?;9;Harder math questions;Medium
+What is the formula for force?;Force = mass * acceleration;Physics questions;Medium
+What is the formula for acceleration?;Acceleration = force / mass;Physics questions;Medium
+What is the formula for mass?;Mass = force / acceleration;Physics questions;Medium
+What is the formula for water?;H2O;Chemistry questions;Medium
+What is the formula for carbon dioxide?;CO2;Chemistry questions;Medium
+What is the formula for methane?;CH4;Chemistry questions;Medium
+What is the derivative of sin(x) + cos(x)?;cos(x) - sin(x);Hard and complex math questions;Hard
+What is the integral of 2x^2 + 3x + 1?;(2/3)x^3 + (3/2)x^2 + x + C;Hard and complex math questions;Hard
+What is the limit of (1/x) as x approaches infinity?;0;Hard and complex math questions;Hard
+What is the formula for the force of gravity?;F = G * (m1 * m2) / r^2;Hard physics questions;Hard
+What is the formula for the force of gravity on Earth?;F = (G * m1) / r^2;Hard physics questions;Hard
+What is the formula for the force of gravity on the moon?;F = (G * m1) / r^2;Hard physics questions;Hard
+What is the formula for the chemical compound sodium chloride?;NaCl;Hard chemistry questions;Hard
+What is the formula for the chemical compound sodium hydroxide?;NaOH;Hard chemistry questions;Hard
+What is the formula for the chemical compound sodium carbonate?;Na2CO3;Hard chemistry questions;Hard
